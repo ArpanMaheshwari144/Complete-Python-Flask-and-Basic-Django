@@ -1,0 +1,12 @@
+Email1:enquiry@alliance.edu.in
+Email2:vc@alliance.edu.in
+Email3:anubha@alliance.edu.in
+Email4:registrar@alliance.edu.in
+Email5:registrar.exams@alliance.edu.in
+Email6:placement@alliance.edu.in
+Email7:mathew.t@alliance.edu.in
+Email8:rajen.chatterjee@alliance.edu.in
+Email9:abhay.chebbi@alliance.edu.in
+Email10:hrd@alliance.edu.in
+Email11:edu.verify@alliance.edu.in
+Email12:enquiry@alliance.edu.in
